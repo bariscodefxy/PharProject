@@ -1,0 +1,2 @@
+# PharProject
+Phar project template
